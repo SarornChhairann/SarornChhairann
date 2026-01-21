@@ -68,47 +68,6 @@ SQL                    ██████████████████░
 
 ---
 
-## 🚀 Featured Projects
-
-### [Enterprise E-Commerce Platform](https://demo.ecommerce-platform.com)
-> **Tech Stack:** Next.js, Node.js, PostgreSQL, Redis, AWS  
-> **Role:** Lead Full Stack Developer
-
-A scalable e-commerce solution processing 10K+ daily transactions with real-time inventory management, payment gateway integration, and advanced analytics dashboard.
-
-- ✅ Reduced page load time by 60% through optimization
-- ✅ Implemented microservices architecture
-- ✅ Achieved 99.9% uptime SLA
-- 🔗 [Live Demo](https://demo.ecommerce-platform.com) | [GitHub](https://github.com/SarornChhairann/ecommerce-platform)
-
----
-
-### [AI-Powered Analytics Dashboard](https://demo.analytics-dashboard.com)
-> **Tech Stack:** React, Python, FastAPI, TensorFlow, Docker  
-> **Role:** Full Stack Engineer
-
-Real-time business intelligence platform with machine learning-powered predictive analytics and automated reporting capabilities.
-
-- ✅ Integrated ML models for predictive insights
-- ✅ Real-time data visualization with 1M+ data points
-- ✅ Reduced report generation time by 75%
-- 🔗 [Live Demo](https://demo.analytics-dashboard.com) | [GitHub](https://github.com/SarornChhairann/analytics-dashboard)
-
----
-
-### [Cloud-Native Task Management System](https://demo.taskmanager.com)
-> **Tech Stack:** Vue.js, Spring Boot, MongoDB, Kubernetes  
-> **Role:** Senior Developer
-
-Enterprise task management solution with role-based access control, workflow automation, and team collaboration features.
-
-- ✅ Supports 5000+ concurrent users
-- ✅ Automated workflow engine
-- ✅ Mobile-responsive design
-- 🔗 [Live Demo](https://demo.taskmanager.com) | [GitHub](https://github.com/SarornChhairann/task-manager)
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
